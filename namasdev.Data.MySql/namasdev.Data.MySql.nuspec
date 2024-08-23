@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>namasdev.Data.MySql</id>
+    <version>1.0.0</version>
+    <title>namasdev Data.MySql</title>
+    <authors>Matias Alberto Lopez</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/MatiasALopez/namasdev.Data.MySql</projectUrl>
+    <description>namasdev MySql Data library</description>
+    <releaseNotes></releaseNotes>
+    <copyright>2024</copyright>
+    <tags>namasdev</tags>
+  </metadata>
+</package>
